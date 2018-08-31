@@ -1,0 +1,17 @@
+{
+  "name": "ishadowx-address",
+  "version": "1.0.0",
+  "description": "shadowsocks address auto update",
+  "main": "ishadowx.js",
+  "scripts": {
+    "build": "pkg ishadowx-address.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.15.1",
+    "request": "^2.87.0"
+  }
+}

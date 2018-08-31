@@ -1,0 +1,7 @@
+/.idea/
+*.iml
+/node_modules/
+/gui-config.json
+/ishadowx-address-linux
+/ishadowx-address-macos
+/ishadowx-address-win.exe
